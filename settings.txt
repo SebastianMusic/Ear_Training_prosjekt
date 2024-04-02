@@ -1,0 +1,5 @@
+[DEFAULT]
+intro_speed = 1.0
+test_speed = 1.0
+space_between = 1.0
+
